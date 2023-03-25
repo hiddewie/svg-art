@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rsvg-convert -f pdf -o out/turtle.pdf out/turtle.svg
+rsvg-convert -f pdf -o out/e.pdf out/e.svg
